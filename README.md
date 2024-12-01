@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EjehA
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Bootstrap
-- 💞️ I’m looking to collaborate on Reacts
-- 📫 How to reach me on 07060514725
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Reacts.
+- 💞️ I’m looking to collaborate on Reacts.
+- 📫 You can reach me on 07060514725.
 
 <!---
 EjehA/EjehA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
